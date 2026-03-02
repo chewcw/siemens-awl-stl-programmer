@@ -361,3 +361,10 @@ Generated examples must resemble real industrial use cases:
 - Conveyor, pump, or valve control
 
 Avoid toy, abstract, or academic examples.
+
+---
+
+## Reference Files
+
+* `reference/STL_Core_Instructions.md` — Full instruction syntax rules; read when generating unfamiliar instructions or complex arithmetic/timer patterns.
+* `example_blocks/` — Standalone block templates for direct use in Step7 Classic. These are for human reference only; all block formats are already embedded above.
